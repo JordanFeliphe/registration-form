@@ -1,5 +1,4 @@
-# Formulário de Registro
-
+Formulário de Registro
 Este repositório contém um formulário de registro desenvolvido utilizando HTML, CSS e Bootstrap. O objetivo é criar uma interface simples e responsiva para coleta de dados de novos usuários.
 
 Funcionalidades
@@ -11,7 +10,11 @@ HTML: Estrutura básica do formulário.
 CSS: Estilização do formulário com foco em usabilidade e estética.
 Bootstrap: Framework CSS para garantir um design responsivo e moderno.
 JavaScript: Para personalizações adicionais e interação.
+Estrutura do Projeto
+A estrutura do projeto é a seguinte:
 
+bash
+Copiar código
 /formulario-registro
   ├── index.html            # Página principal com o formulário
   ├── /src
@@ -22,7 +25,6 @@ JavaScript: Para personalizações adicionais e interação.
   │   └── /img
   │       └── alpha.io.png  # Imagem usada no formulário
   └── README.md             # Documento de instruções e informações sobre o projeto
-
 Como Usar
 Clone este repositório para sua máquina local:
 
@@ -39,10 +41,26 @@ Abra o arquivo index.html em seu navegador para visualizar o formulário.
 Contribuição
 Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+Para contribuir:
+
 Faça um fork deste repositório.
-Crie uma branch para a sua feature (git checkout -b feature/nova-feature).
-Commit suas alterações (git commit -m 'Adiciona nova feature').
-Faça push para a branch (git push origin feature/nova-feature).
+
+Crie uma branch para a sua feature:
+
+bash
+Copiar código
+git checkout -b feature/nova-feature
+Commit suas alterações:
+
+bash
+Copiar código
+git commit -m 'Adiciona nova feature'
+Faça push para a branch:
+
+bash
+Copiar código
+git push origin feature/nova-feature
 Abra um pull request.
+
 Licença
 Este projeto está licenciado sob a Licença MIT.
