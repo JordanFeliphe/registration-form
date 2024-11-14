@@ -1,4 +1,4 @@
-Formulário de Registro
+#Formulário de Registro
 Este repositório contém um formulário de registro desenvolvido utilizando HTML, CSS e Bootstrap. O objetivo é criar uma interface simples e responsiva para coleta de dados de novos usuários.
 
 Funcionalidades
