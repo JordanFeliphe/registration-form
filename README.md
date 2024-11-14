@@ -15,7 +15,5 @@ Este repositório contém um **formulário de registro** desenvolvido utilizando
 - **Bootstrap**: Framework CSS para garantir um design responsivo e moderno.
 - **JavaScript**: Para personalizações adicionais e interação.
 
-## Estrutura do Projeto
 
-A estrutura do projeto é a seguinte:
 
